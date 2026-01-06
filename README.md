@@ -16,6 +16,7 @@ The application is a **desktop-based form module** designed to manage grocery wh
 * **Database Connectivity:** ADODB
 
 ## Key Features
+<img width="1914" height="1027" alt="image" src="https://github.com/user-attachments/assets/f63cf3f4-0d54-4ba7-9f06-eae117ead5c4" />
 
 * Form-based user interface
 * Mandatory field checks and proper data validation
